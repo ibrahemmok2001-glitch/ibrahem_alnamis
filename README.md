@@ -25,8 +25,6 @@ I am a dedicated student pursuing a degree in **Networking**. I am passionate ab
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 ---
 
-### 🌟 My Goal
-My current focus is to master the fundamentals of networking while building a solid foundation in software development. I believe that the future of networking is **Code**.
 
 ---
 
